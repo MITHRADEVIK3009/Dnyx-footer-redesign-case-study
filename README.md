@@ -1,33 +1,84 @@
 # Website Footer Redesign — DNYX Technologies  
 
-![DNYX Logo](https://files.oaiusercontent.com/file-your-file-id?filepath=logo.jpg)
+<div align="center">
+  <img src="assets/dnyx-logo.jpg" alt="DNYX Logo" width="380"/>
+</div>
 
-**Role:** UI/UX Intern  
-**Duration:** 31 July – 30 September 2024  
-**Company:** DNYX Technologies (Digital Agency)  
-**Website:** https://www.dnyx.in
+<br>
 
-### Context
-DNYX Technologies is a full-service digital agency offering web development, UI/UX design, and related solutions from Chennai, India. During my two-month internship I was tasked with redesigning the website footer — a component visible on every page.
+**Role**  UI/UX Intern  
+**Duration** 31 July – 30 September 2024  
+**Company** DNYX Technologies (Digital Agency)  
+**Location** Chennai, India  
+**Website** [www.dnyx.in](https://www.dnyx.in)
+
+<br>
+
+---
 
 ### Objective
-Improve clarity, trust signals, and overall usability of the footer while maintaining complete consistency with the existing blurred-golden visual theme.
+Redesign the global website footer to improve:
+- Clarity and visual hierarchy
+- Trust signals (contact, location, legal links)
+- Mobile responsiveness
+- Overall professionalism while staying 100% true to the existing blurred-golden brand theme
+
+<br>
 
 ### Key Contributions
-- Analysed the previous footer for readability, hierarchy, and user expectations  
-- Delivered three carefully refined variations (instead of 7–9) to streamline internal decision-making  
-- Ensured prominent placement of contact details, location, privacy policy, and services  
-- Optimised spacing, contrast, and mobile experience  
-- Collaborated directly with the Founder throughout the process
+- Conducted heuristic review of the previous footer
+- Delivered **only three refined variations** (instead of 7–9) to respect stakeholder decision-making time
+- Introduced logical four-column structure and prominent trust elements
+- Optimized spacing, contrast, and tap-target sizes for mobile
+- Collaborated directly with the Founder & CEO throughout iterations
 
-Final designs → [/solution/final-designs/]
+**Final Designs** → [/solution/final-designs/](solution/final-designs/)
 
-### Outcome
-The selected direction was appreciated for its clarity and restraint.
+<br>
+
+### Selected Outcome & Feedback
+The direction was praised for its clarity and intentional restraint.
 
 > “The clarity and restraint in option selection made decision-making easier. Each version felt purposeful and aligned with our brand.”  
-> — Rudhresh S, Founder & CEO, DNYX Technologies
+> — **Rudhresh S**, Founder & CEO, DNYX Technologies
+
+<br>
+
+### Detailed Breakdown
+| Area                    | Decision                                   | Reason                                          |
+|-------------------------|--------------------------------------------|-------------------------------------------------|
+| Number of options       | Only 3 final versions                      | Prevent decision fatigue                        |
+| Column structure        | Services → Company → Legal → Contact       | Matches natural user scanning order             |
+| Contact & location      | Made instantly visible                     | Immediate credibility for local clients         |
+| Privacy Policy & Terms  | Placed at eye level                        | Compliance + trust                              |
+| Golden accent usage     | High-contrast while preserving brand theme | Consistency + accessibility                    |
+| Link reduction          | Removed redundancy                         | Lower cognitive load                            |
+| Mobile spacing          | Increased vertical padding                 | Better touch experience                        |
+
+→ Full rationale: [/solution/design-decisions.md](solution/design-decisions.md)
+
+<br>
+
+### Reflections
+- Presenting fewer, higher-quality options significantly speeds up alignment  
+- Direct founder access enabled rapid, high-impact feedback loops  
+- Even small components like footers play a major role in perceived professionalism  
+- Balancing creativity with clarity and restraint is critical in real-world projects
+
+<br>
 
 ### Reference
-Company and contact information extracted from the live website for context:  
-[/reference/company-context.md]
+Company context (publicly available data from the live site):  
+[/reference/company-context.md](reference/company-context.md)
+
+<br>
+
+---
+
+<div align="center">
+
+**Open to feedback • Feel free to open an issue**
+
+[LinkedIn](https://www.linkedin.com/in/mithradevi-k-cse-webdeveloper63b4642b5) • Chennai, India
+
+</div>
