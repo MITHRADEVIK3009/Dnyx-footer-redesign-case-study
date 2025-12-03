@@ -1,13 +1,13 @@
-# Website Footer Redesign — DNYX Technologies  
+# Website Footer Redesign - DNYX Technologies  
 
 <div align="center">
-  <img src="assets/dnyx-logo.jpg" alt="DNYX Logo" width="380"/>
+  <img src="assets/dnyx-logo.png" alt="DNYX Logo" width="380"/>
 </div>
 
 <br>
 
 **Role**  UI/UX Intern  
-**Duration** 31 July – 30 September 2024  
+**Duration** 1 July – 30 September 2024  
 **Company** DNYX Technologies (Digital Agency)  
 **Location** Chennai, India  
 **Website** [www.dnyx.in](https://www.dnyx.in)
@@ -17,7 +17,7 @@
 ---
 
 ### Objective
-Redesign the global website footer to improve:
+Redesign the website footer to improve:
 - Clarity and visual hierarchy
 - Trust signals (contact, location, legal links)
 - Mobile responsiveness
@@ -76,9 +76,5 @@ Company context (publicly available data from the live site):
 ---
 
 <div align="center">
-
-**Open to feedback • Feel free to open an issue**
-
-[LinkedIn](https://www.linkedin.com/in/mithradevi-k-cse-webdeveloper63b4642b5) • Chennai, India
 
 </div>
