@@ -1,10 +1,8 @@
 # Behind the Screens: What My Internship at a Design Agency Actually Taught Me
 
-When people read about internships, they often imagine that the value comes only from what is built on the surface — the screens designed, the features launched, or the interfaces shipped. In reality, much of the learning does not come from what is visible. It comes from how work is approached, refined, and delivered under real-world conditions.
+During my three-month internship at a design agency from July to September 2024, I worked on improving a production website component the footer. While the output itself appears compact, the experience behind it was layered with learning that went far beyond designing a UI element.
 
-During my three-month internship at a design agency from July to September 2024, I worked on improving a production website component — the footer. While the output itself appears compact, the experience behind it was layered with learning that went far beyond designing a UI element.
-
-Rather than treating this internship as a checklist of tasks, I treated it as an opportunity to understand how professionals think when they build products — how decisions are made, how ideas are evaluated, and how constraints shape execution.
+Rather than treating this internship as a checklist of tasks, I treated it as an opportunity to understand how professionals think when they build products how decisions are made, how ideas are evaluated, and how constraints shape execution.
 
 ---
 
@@ -19,7 +17,7 @@ Before putting together a single proposal, a significant amount of time was spen
 - How navigation structures influenced readability  
 - How visual hierarchy affected comprehension  
 
-This phase was less about "doing" and more about reading patterns — noticing what worked, what felt heavy, what looked unclear, and what could be structured better.
+This phase was less about "doing" and more about reading patterns  noticing what worked, what felt heavy, what looked unclear, and what could be structured better.
 
 ---
 
@@ -68,7 +66,7 @@ These efforts refined how I think about working on products, not just interfaces
 
 ## Iteration as a Process
 
-The real work was not finalizing a design — it was iterating responsibly.
+The real work was not finalizing a design it was iterating responsibly.
 
 Revisions did not indicate failure. They indicated refinement.
 
